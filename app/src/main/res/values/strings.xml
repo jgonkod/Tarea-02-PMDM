@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tarea01.jgk</string>
+    <string name="lista_de_personajes">Lista de Personajes</string>
+    <string name="detalles_del_personaje">Detalles del Personajes</string>
+    <string name="about">About</string>
+</resources>

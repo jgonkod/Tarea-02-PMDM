@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/characterDetailFragment"
+        android:name="dam.pmdm.tarea01pmdmjgk.CharacterDetailFragment"
+        android:label="Character Detail Fragment" />
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="dam.pmdm.tarea01pmdmjgk.CharacterListFragment"
+        android:label="Main Fragment" />
+</navigation>
