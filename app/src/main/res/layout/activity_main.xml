@@ -16,11 +16,6 @@
         app:layout_constraintEnd_toEndOf="parent"
 
         />
-    <com.google.android.material.appbar.AppBarLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_
-        app:menu="@menu/menu_about"/>
 
     <fragment
         android:id="@+id/nav_host_fragment"
