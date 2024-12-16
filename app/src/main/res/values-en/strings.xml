@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">World of Mario</string>
+    <string name="sobre" >About</string>
+    <string name="txtSobre" >App created by Joshua Gonzalez Koda. Version 1.0.</string>
+    <string name="txtDetailToast" >Character selected  </string>
+    <string name="txtSnackList" >Welcome to Mario World! </string>
+    <string name="txtBtnHomeDraw" >Home</string>
+    <string name="txtBtnSettingsDraw" >Settings</string>
+
+    <string name="txtSettings" >Settings</string>
+    <string name="openDrawer" >Open</string>
+    <string name="closeDrawer" >Close</string>
+    <string name="lista_de_personajes" >List of Characters</string>
+    <string name="detalles_del_personaje">Character Details</string>
+    <string name="desMario">The famous plumber Mushroom Kingdom.</string>
+    <string name="desLuigi">Mario´s brother, known for his courage.</string>
+    <string name="desPeach">Princess of Mushroom Kingdom.</string>
+    <string name="desToad">Loyal steward of Princess Peach.</string>
+    <string name="desBowser">King of Koopas and archenemy of Mario.</string>
+    <string name="desYoshi">The dinosaur friend of Mario.</string>
+    <string name="desWario">Mario´s rival, known for his greed.</string>
+
+    <string name="abMario">High jump, Super Mario, Power-ups.</string>
+    <string name="abLuigi">High jump, Super Luigi, Power-ups.</string>
+    <string name="abPeach">Healing power, Invocation of Toads.</string>
+    <string name="abToad">Speed, Help in mission.</string>
+    <string name="abBowser">Fire, Brute Strength.</string>
+    <string name="abYoshi">Eat enemies, High jump.</string>
+    <string name="abWario">Strength, Power of Explosion.</string>
+    <string name="txtLanguage">Language</string>
+    <string name="txtLngSettingEn">English</string>
+    <string name="txtLngSettingEs">Spanish</string>
+</resources>

@@ -42,6 +42,7 @@ android {
 
 dependencies {
     implementation("com.squareup.picasso:picasso:2.71828")
+    implementation("androidx.core:core-splashscreen:1.0.1");
     implementation(libs.navigation.fragment.ktx)
     implementation(libs.navigation.ui.ktx)
     implementation(libs.recyclerview)
